@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-au'
+title = 'The Gazebo Gazette'
+theme = 'archie'
